@@ -1,7 +1,7 @@
-#Installation
+# Installation
+
 Install with
-```pipenv install ```
+```pipenv install```
 
 Run label-studio UI with
-```pipenv shell
-label-studio start  ```
+```pipenv shell``` and ```label-studio start```
