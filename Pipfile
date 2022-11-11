@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 label-studio = "*"
+label-studio-sdk = "*"
+label-studio-ml = "*"
 
 [dev-packages]
 
